@@ -9,3 +9,6 @@ test 9 - merge
 
 test 10 - after merge
 test 11 - change from test_feature_1 branch
+
+
+test JS001 - changes by DATTA PM JS
